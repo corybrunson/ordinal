@@ -6,7 +6,7 @@
 %%  ~~function to do ... ~~
 }
 \description{
-  Fits cumulative link models (CLMs) such as the propotional odds
+  Fits cumulative link models (CLMs) such as the proportional odds
   model. The model allows for various link functions and structured
   thresholds that restricts the thresholds or cut-points to be e.g.,
   equidistant or symmetrically arranged around the central
